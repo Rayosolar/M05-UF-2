@@ -20,6 +20,7 @@ public class Exercici_119 {
                 total += (((temp - 2) * 4) * 2) + 12;
             }
             System.out.println( total );
+            System.out.println("Hola sóc l'ivan Esteban");
         }
 
     }
